@@ -53,6 +53,8 @@
 
 <br/>  
 
+
+## Github Language  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jminds&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&border_radius=0" align="left" style="width: 100%" />  
   
 
@@ -74,6 +76,8 @@
 
 <br/>  
 
+
+## Visitor Counter  
 ![](https://visitor-badge.glitch.me/badge?page_id=jminds)  
 
 <br />

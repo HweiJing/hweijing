@@ -4,7 +4,9 @@
 
 ## My Skill Set  
 <div align="center">  
-    <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40px" style="marigin: 10px">
+    <span style="marigin: 10px">
+        <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40px">
+    </span>
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40px" style="marigin: 10px">
     <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40px" style="marigin: 10px">
     <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40px" style="marigin: 10px">

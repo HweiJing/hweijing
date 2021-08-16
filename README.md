@@ -4,23 +4,23 @@
 
 ## My Skill Set
 <div align="center">
-    <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40px">&nbsp;&nbsp;
-    <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="40px">
+    <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35px">&nbsp;&nbsp;
+    <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="35px">
 </div>
 
 ## Github Language

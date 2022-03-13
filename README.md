@@ -3,6 +3,7 @@
 </div>
 
 ## My Skill Set
+
 <div align="center">
     <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="35px">&nbsp;&nbsp;
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35px">&nbsp;&nbsp;
@@ -24,19 +25,23 @@
 </div>
 
 ## Github Language
+
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jminds&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&border_radius=0" style="width: 100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hweijing&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&border_radius=0" style="width: 100%">
 </div>
 
 ## Github Stats
+
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jminds&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&icon_color=fff&border_radius=0" style="width: 100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=hweijing&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&icon_color=fff&border_radius=0" style="width: 100%">
 </div>
 
 ## Github Contribution
+
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=jminds&theme=xcode&hide_border=true&area=true" style="width: 100%">
+    <img src="https://activity-graph.herokuapp.com/graph?username=hweijing&theme=xcode&hide_border=true&area=true" style="width: 100%">
 </div>
 
 ## Visitor Counter
-![](https://visitor-badge.glitch.me/badge?page_id=jminds)
+
+![](https://visitor-badge.glitch.me/badge?page_id=hweijing)
